@@ -1,4 +1,5 @@
 # Sales Analytics Dashboard — Excel Portfolio Project
+![Sales Analytics Dashboard](Sales_Analytics_Dashboard_00.png)
 
 ## Project Overview
 
